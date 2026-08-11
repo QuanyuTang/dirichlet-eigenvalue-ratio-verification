@@ -5,6 +5,13 @@ This repository contains the exact-arithmetic verification code accompanying the
 **Yixin He, Quanyu Tang, and Haiqi Zhang,
 “Counterexamples to a higher-index Dirichlet eigenvalue-ratio conjecture.”**
 
+## Preprint status
+
+The manuscript was submitted to arXiv on August 10, 2026 and is currently on hold pending moderation. The arXiv identifier and link will be added here once the submission becomes publicly available.
+
+A fixed snapshot of the manuscript and verification code is available as **Release `preprint-v1` (August 11, 2026)**.
+
+
 The script `verify_exact_arithmetic.py` verifies the exact computations used in the proof, including:
 
 * the Rayleigh sums appearing in the paper;
