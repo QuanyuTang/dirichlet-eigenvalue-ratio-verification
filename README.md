@@ -1,16 +1,20 @@
-# Exact-arithmetic verification code
+# Preprint and exact-arithmetic verification code
 
-This repository contains the exact-arithmetic verification code accompanying the paper
+This repository contains the manuscript and exact-arithmetic verification code accompanying the paper
 
-**Yixin He, Quanyu Tang, and Haiqi Zhang,
-“Counterexamples to a higher-index Dirichlet eigenvalue-ratio conjecture.”**
+**Yixin He, Quanyu Tang, and Haiqi Zhang, “Counterexamples to a higher-index Dirichlet eigenvalue-ratio conjecture.”**
+
+## Manuscript
+
+The current public manuscript is available as [`paper.pdf`](paper.pdf), with LaTeX source in [`paper.tex`](paper.tex).
+
+For a fixed snapshot of the first public version, see **Release `preprint-v1` (August 11, 2026)**.
 
 ## Preprint status
 
 The manuscript was submitted to arXiv on August 10, 2026 and is currently on hold pending moderation. The arXiv identifier and link will be added here once the submission becomes publicly available.
 
-A fixed snapshot of the manuscript and verification code is available as **Release `preprint-v1` (August 11, 2026)**.
-
+##
 
 The script `verify_exact_arithmetic.py` verifies the exact computations used in the proof, including:
 
