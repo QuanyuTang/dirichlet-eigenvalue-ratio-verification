@@ -79,7 +79,7 @@ $$
 
 ## Abstract
 
-Let $\lambda_k(\Omega)$ denote the $k$th Dirichlet Laplacian eigenvalue of a bounded planar domain $\Omega$, with eigenvalues counted with multiplicity. We disprove a conjectured higher-index extension of the Payne–Pólya–Weinberger inequality that was recorded as an open problem by Ashbaugh. For every integer $m\ge 3$, we construct a bounded planar domain $\Omega_m$ with $C^\infty$ boundary such that
+Let $\lambda_k(\Omega)$ denote the kth Dirichlet Laplacian eigenvalue of a bounded planar domain $\Omega$, with eigenvalues counted with multiplicity. We disprove a conjectured higher-index extension of the Payne–Pólya–Weinberger inequality that was recorded as an open problem by Ashbaugh. For every integer $m\ge 3$, we construct a bounded planar domain $\Omega_m$ with $C^\infty$ boundary such that
 
 $$
 \frac{\lambda_{2m}(\Omega_m)}{\lambda_m(\Omega_m)}>\frac{13}{5}>\frac{j_{1,1}^2}{j_{0,1}^2},
