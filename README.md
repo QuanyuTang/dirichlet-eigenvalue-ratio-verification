@@ -4,7 +4,7 @@
 
 Preprint, first public version: August 11, 2026.
 
-[Paper (PDF)](paper.pdf) · [LaTeX source](paper.tex) · [Exact-arithmetic verification](verify_exact_arithmetic.py) · [Sample output](output.txt)
+[Paper (PDF)](paper.pdf) · [ResearchGate preprint](https://www.researchgate.net/publication/412255701_Counterexamples_to_a_higher-index_Dirichlet_eigenvalue-ratio_conjecture) · [LaTeX source](paper.tex) · [Exact-arithmetic verification](verify_exact_arithmetic.py) · [Sample output](output.txt)
 
 > **Main result.** We disprove Ashbaugh's higher-index Payne–Pólya–Weinberger (PPW) conjecture for Dirichlet Laplacian eigenvalue ratios. Counterexamples exist for every integer $m\ge 3$, already in dimension $N=2$.
 
@@ -98,7 +98,9 @@ already provides such a counterexample.
 
 The current public manuscript is available as [`paper.pdf`](paper.pdf), with LaTeX source in [`paper.tex`](paper.tex).
 
-For a fixed snapshot of the first public version, see **Release `preprint-v1` (August 11, 2026)**.
+A public preprint is also available on [ResearchGate](https://www.researchgate.net/publication/412255701_Counterexamples_to_a_higher-index_Dirichlet_eigenvalue-ratio_conjecture).
+
+For a fixed snapshot of the first public version, see Release `preprint-v1` (August 11, 2026).
 
 The manuscript was submitted to arXiv on August 10, 2026 and is currently on hold pending moderation. The arXiv identifier and link will be added here once the submission becomes publicly available.
 
