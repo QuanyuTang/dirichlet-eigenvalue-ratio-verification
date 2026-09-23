@@ -2,9 +2,10 @@
 
 **Yixin He, Quanyu Tang, and Haiqi Zhang**
 
-Preprint, first public version: August 11, 2026.
+Preprint. First public version: August 11, 2026.  
+**arXiv:** [2609.26198](https://arxiv.org/abs/2609.26198)
 
-[Paper (PDF)](paper.pdf) · [ResearchGate preprint](https://www.researchgate.net/publication/412255701_Counterexamples_to_a_higher-index_Dirichlet_eigenvalue-ratio_conjecture) · [LaTeX source](paper.tex) · [Exact-arithmetic verification](verify_exact_arithmetic.py) · [Sample output](output.txt)
+[arXiv](https://arxiv.org/abs/2609.26198) · [arXiv PDF](https://arxiv.org/pdf/2609.26198) · [Repository PDF](paper.pdf) · [LaTeX source](paper.tex) · [Exact-arithmetic verification](verify_exact_arithmetic.py) · [Sample output](output.txt)
 
 > **Main result.** We disprove Ashbaugh's higher-index Payne–Pólya–Weinberger (PPW) conjecture for Dirichlet Laplacian eigenvalue ratios. Counterexamples exist for every integer $m\ge 3$, already in dimension $N=2$.
 
@@ -96,13 +97,34 @@ already provides such a counterexample.
 
 ## Manuscript
 
-The current public manuscript is available as [`paper.pdf`](paper.pdf), with LaTeX source in [`paper.tex`](paper.tex).
+The preprint is available on arXiv:
 
-A public preprint is also available on [ResearchGate](https://www.researchgate.net/publication/412255701_Counterexamples_to_a_higher-index_Dirichlet_eigenvalue-ratio_conjecture).
+**Yixin He, Quanyu Tang, and Haiqi Zhang,  
+"Counterexamples to a higher-index Dirichlet eigenvalue-ratio conjecture,"  
+arXiv:2609.26198 (2026).**
+
+[arXiv abstract](https://arxiv.org/abs/2609.26198) · [arXiv PDF](https://arxiv.org/pdf/2609.26198)
+
+The current repository copy of the manuscript is available as [`paper.pdf`](paper.pdf), with LaTeX source in [`paper.tex`](paper.tex).
 
 For a fixed snapshot of the first public version, see Release `preprint-v1` (August 11, 2026).
 
-The manuscript was submitted to arXiv on August 10, 2026 and is currently on hold pending moderation. The arXiv identifier and link will be added here once the submission becomes publicly available.
+An earlier public copy is also available on [ResearchGate](https://www.researchgate.net/publication/412255701_Counterexamples_to_a_higher-index_Dirichlet_eigenvalue-ratio_conjecture).
+
+## Citation
+
+If you use this work or the accompanying verification code, please cite:
+
+```bibtex
+@misc{HeTangZhang2026,
+  title        = {Counterexamples to a higher-index Dirichlet eigenvalue-ratio conjecture},
+  author       = {Yixin He and Quanyu Tang and Haiqi Zhang},
+  year         = {2026},
+  eprint       = {2609.26198},
+  archivePrefix = {arXiv},
+  url          = {https://arxiv.org/abs/2609.26198}
+}
+```
 
 ## Exact-arithmetic verification
 
@@ -147,7 +169,7 @@ ALL CHECKS PASSED.
 
 ## Repository contents
 
-* [`paper.pdf`](paper.pdf) — current public manuscript;
+* [`paper.pdf`](paper.pdf) — repository copy of the current public manuscript;
 * [`paper.tex`](paper.tex) — LaTeX source of the manuscript;
 * [`verify_exact_arithmetic.py`](verify_exact_arithmetic.py) — exact-arithmetic verification script;
 * [`requirements.txt`](requirements.txt) — Python dependencies;
